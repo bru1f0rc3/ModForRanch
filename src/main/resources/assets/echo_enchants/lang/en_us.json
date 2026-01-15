@@ -1,0 +1,39 @@
+{
+  "enchantment.echo_enchants.magnetism": "Magnetism",
+  "enchantment.echo_enchants.magnetism.desc": "Automatically collects dropped items into your inventory",
+  
+  "enchantment.echo_enchants.experienced": "Experienced",
+  "enchantment.echo_enchants.experienced.desc": "Increases experience gained from mining and killing",
+  
+  "enchantment.echo_enchants.unbreakable": "Unbreakable",
+  "enchantment.echo_enchants.unbreakable.desc": "Prevents tool from breaking, stops working at 10% durability",
+  
+  "enchantment.echo_enchants.drill": "Drill",
+  "enchantment.echo_enchants.drill.desc": "Mines in a 3x3 area",
+  
+  "enchantment.echo_enchants.mega_drill": "Mega Drill",
+  "enchantment.echo_enchants.mega_drill.desc": "Mines in a 5x5 area",
+  
+  "enchantment.echo_enchants.auto_smelt": "Auto Smelt",
+  "enchantment.echo_enchants.auto_smelt.desc": "Automatically smelts mined ores into ingots",
+  
+  "enchantment.echo_enchants.farmer": "Farmer",
+  "enchantment.echo_enchants.farmer.desc": "Increases crop yield when harvesting",
+  
+  "enchantment.echo_enchants.seeding": "Seeding",
+  "enchantment.echo_enchants.seeding.desc": "Automatically replants crops using seeds from drops",
+  
+  "enchantment.echo_enchants.delicate": "Delicate",
+  "enchantment.echo_enchants.delicate.desc": "Protects immature crops from being destroyed",
+  
+  "item.echo_enchants.super_fertilizer": "Super Fertilizer",
+  "item.echo_enchants.super_fertilizer.desc": "Fertilizes a 5x5 area of crops",
+  
+  "block.echo_enchants.growth_beacon": "Growth Beacon",
+  "block.echo_enchants.growth_beacon.desc": "Automatically accelerates crop growth in a 5 block radius",
+  
+  "item.echo_enchants.enchanted_book.tooltip": "Rare loot from hostile mobs",
+  "item.echo_enchants.enchanted_book.source": "EchoEnchants",
+  
+  "itemGroup.echo_enchants": "EchoEnchants"
+}

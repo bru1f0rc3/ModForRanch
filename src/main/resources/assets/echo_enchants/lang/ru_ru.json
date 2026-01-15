@@ -1,0 +1,39 @@
+{
+  "enchantment.echo_enchants.magnetism": "Магнетизм",
+  "enchantment.echo_enchants.magnetism.desc": "Автоматически собирает выпавшие предметы в инвентарь",
+  
+  "enchantment.echo_enchants.experienced": "Опытный",
+  "enchantment.echo_enchants.experienced.desc": "Увеличивает получаемый опыт от добычи и убийства",
+  
+  "enchantment.echo_enchants.unbreakable": "Неразрушимость",
+  "enchantment.echo_enchants.unbreakable.desc": "Предотвращает поломку инструмента, прекращает работу при 10% прочности",
+  
+  "enchantment.echo_enchants.drill": "Бур",
+  "enchantment.echo_enchants.drill.desc": "Добывает в области 3x3",
+  
+  "enchantment.echo_enchants.mega_drill": "Мега-бур",
+  "enchantment.echo_enchants.mega_drill.desc": "Добывает в области 5x5",
+  
+  "enchantment.echo_enchants.auto_smelt": "Автоплавка",
+  "enchantment.echo_enchants.auto_smelt.desc": "Автоматически переплавляет руды в слитки",
+  
+  "enchantment.echo_enchants.farmer": "Фермер",
+  "enchantment.echo_enchants.farmer.desc": "Увеличивает урожай при сборе",
+  
+  "enchantment.echo_enchants.seeding": "Посев",
+  "enchantment.echo_enchants.seeding.desc": "Автоматически пересаживает культуры используя семена из дропа",
+  
+  "enchantment.echo_enchants.delicate": "Деликатный",
+  "enchantment.echo_enchants.delicate.desc": "Защищает невыросшие растения от разрушения",
+  
+  "item.echo_enchants.super_fertilizer": "Супер-удобрение",
+  "item.echo_enchants.super_fertilizer.desc": "Удобряет площадь 5x5",
+  
+  "block.echo_enchants.growth_beacon": "Маяк Роста",
+  "block.echo_enchants.growth_beacon.desc": "Автоматически ускоряет рост растений в радиусе 5 блоков",
+  
+  "item.echo_enchants.enchanted_book.tooltip": "Редкий лут от враждебных мобов",
+  "item.echo_enchants.enchanted_book.source": "EchoEnchants",
+  
+  "itemGroup.echo_enchants": "EchoEnchants"
+}

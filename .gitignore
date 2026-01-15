@@ -1,0 +1,8 @@
+# Gradle
+.gradle/
+build/
+run/
+
+# IDEs
+.idea/
+.vscode/

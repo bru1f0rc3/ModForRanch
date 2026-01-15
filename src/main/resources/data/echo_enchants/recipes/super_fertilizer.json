@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BMB",
+    "MEM",
+    "BMB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "M": {
+      "item": "minecraft:bone_meal"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "echo_enchants:super_fertilizer",
+    "count": 4
+  }
+}

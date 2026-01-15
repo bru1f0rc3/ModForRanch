@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "echo_enchants:block/growth_beacon"
+    }
+  }
+}

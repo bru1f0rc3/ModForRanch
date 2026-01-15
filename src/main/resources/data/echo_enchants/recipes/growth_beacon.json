@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BMB",
+    "EGE",
+    "BMB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "M": {
+      "item": "minecraft:bone_meal"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "echo_enchants:growth_beacon",
+    "count": 1
+  }
+}
